@@ -1,0 +1,10 @@
+C:\Users\slyta\Documents\BTD6 Mod Sources\handkanonier\obj\Debug\net6.0\tutorialtower.csproj.AssemblyReference.cache
+C:\Users\slyta\Documents\BTD6 Mod Sources\handkanonier\obj\Debug\net6.0\tutorialtower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slyta\Documents\BTD6 Mod Sources\handkanonier\obj\Debug\net6.0\tutorialtower.AssemblyInfoInputs.cache
+C:\Users\slyta\Documents\BTD6 Mod Sources\handkanonier\obj\Debug\net6.0\tutorialtower.AssemblyInfo.cs
+C:\Users\slyta\Documents\BTD6 Mod Sources\handkanonier\obj\Debug\net6.0\tutorialtower.csproj.CoreCompileInputs.cache
+C:\Users\slyta\Documents\BTD6 Mod Sources\handkanonier\obj\Debug\net6.0\handkanonier.dll
+C:\Users\slyta\Documents\BTD6 Mod Sources\handkanonier\obj\Debug\net6.0\refint\handkanonier.dll
+C:\Users\slyta\Documents\BTD6 Mod Sources\handkanonier\bin\Debug\net6.0\handkanonier.deps.json
+C:\Users\slyta\Documents\BTD6 Mod Sources\handkanonier\bin\Debug\net6.0\handkanonier.dll
+C:\Users\slyta\Documents\BTD6 Mod Sources\handkanonier\obj\Debug\net6.0\ref\handkanonier.dll

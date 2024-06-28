@@ -1,0 +1,10 @@
+C:\Users\slyta\Documents\BTD6 Mod Sources\Hacker\bin\Debug\net6.0\hackertower.deps.json
+C:\Users\slyta\Documents\BTD6 Mod Sources\Hacker\bin\Debug\net6.0\hackertower.dll
+C:\Users\slyta\Documents\BTD6 Mod Sources\Hacker\obj\Debug\net6.0\hackertower.csproj.AssemblyReference.cache
+C:\Users\slyta\Documents\BTD6 Mod Sources\Hacker\obj\Debug\net6.0\hackertower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slyta\Documents\BTD6 Mod Sources\Hacker\obj\Debug\net6.0\hackertower.AssemblyInfoInputs.cache
+C:\Users\slyta\Documents\BTD6 Mod Sources\Hacker\obj\Debug\net6.0\hackertower.AssemblyInfo.cs
+C:\Users\slyta\Documents\BTD6 Mod Sources\Hacker\obj\Debug\net6.0\hackertower.csproj.CoreCompileInputs.cache
+C:\Users\slyta\Documents\BTD6 Mod Sources\Hacker\obj\Debug\net6.0\hackertower.dll
+C:\Users\slyta\Documents\BTD6 Mod Sources\Hacker\obj\Debug\net6.0\refint\hackertower.dll
+C:\Users\slyta\Documents\BTD6 Mod Sources\Hacker\obj\Debug\net6.0\ref\hackertower.dll
